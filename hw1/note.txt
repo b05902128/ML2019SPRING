@@ -1,0 +1,2 @@
+hw1_best only reaches 7.14 on private set, by using adagrad and preprocessing some data.
+Although one of the best score on private set is 6.25, which uses linear regression with x^2 and iterates 2000000 times. 
