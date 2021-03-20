@@ -59,7 +59,7 @@ isc==2.0
 isort==4.3.4
 jedi==0.13.3
 jieba==0.39
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 jsonschema==2.6.0
 jupyter-client==5.2.4
