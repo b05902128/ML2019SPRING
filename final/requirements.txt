@@ -119,7 +119,7 @@ psycopg2==2.8.2
 ptyprocess==0.6.0
 pwntools==2.2.1
 pwquality==1.4.0
-py==1.6.0
+py==1.10.0
 pyalpm==0.8.5
 pyasn1==0.4.4
 pyasn1-modules==0.2.5
