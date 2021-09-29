@@ -93,7 +93,7 @@ namcap==3.2.7
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
-nltk==3.4
+nltk==3.6.3
 notebook==5.7.8
 ntlm-auth==1.2.0
 numpy==1.16.3
