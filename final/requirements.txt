@@ -149,7 +149,7 @@ PySocks==1.6.8
 pytest==4.4.2
 python-dateutil==2.8.0
 python-igraph==0.7.1.post6
-python-ldap==3.1.0
+python-ldap==3.4.0
 python-slugify==3.0.2
 python-utils==2.3.0
 pytoml==0.1.20
