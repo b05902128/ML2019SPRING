@@ -77,7 +77,7 @@ lensfun==0.3.2
 lit==0.8.0.dev0
 lockfile==0.12.2
 louis==3.9.0
-lxml==4.3.3
+lxml==4.6.5
 Mako==1.0.7
 Markdown==3.0.1
 MarkupSafe==1.1.1
