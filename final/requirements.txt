@@ -52,7 +52,7 @@ iniconfig==1.0.0
 intervaltree==2.1.0
 iotop==0.6
 ipykernel==5.1.0
-ipython==7.5.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipywidgets==7.4.2
 isc==2.0
