@@ -21,7 +21,7 @@ bsddb3==6.2.6
 btrfsutil==1.1.0
 CacheControl==0.12.5
 capstone==3.0.5
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 cloudpickle==0.8.1
